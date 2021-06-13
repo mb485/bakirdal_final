@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582222713643",
+    "project_id": "bakirdalfinal",
+    "storage_bucket": "bakirdalfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582222713643:android:e8675589904fc6c3e6eb6e",
+        "android_client_info": {
+          "package_name": "com.bakirdal.bakirdal_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582222713643-3pkfbtaftr84one8t9vgpbl6kt11oqf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bakirdal.bakirdal_final",
+            "certificate_hash": "f7f4458b763a9b006003836ceae86b3f05a66969"
+          }
+        },
+        {
+          "client_id": "582222713643-ji4btiuts1c22leedfu8v6i1bos61vc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ_kw3YsfU24CteG4h9Gx0OShru4Ot65A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582222713643-ji4btiuts1c22leedfu8v6i1bos61vc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
